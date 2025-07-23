@@ -1,14 +1,5 @@
 @import "tailwindcss";
 
-
-@theme {
-    --color-dark2: #414140;
-    --color-dark3: #707070;
-    --color-dark4: #A0A0A0;
-    --color-dark5: #CFCFCF;
-    --color-dark6: #E7E7E7;
-}
-
 .poppins {
   font-family: "Poppins", sans-serif;
   font-style: normal;
